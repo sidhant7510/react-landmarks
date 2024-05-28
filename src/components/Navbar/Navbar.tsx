@@ -9,7 +9,7 @@ const Navbar: React.FC = () => {
         className="logo"
         alt="logo"
       />
-      <h1>LANDMARKS</h1>
+      <h1>sidhant and ammy</h1>
     </nav>
   );
 };
